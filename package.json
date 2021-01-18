@@ -1,0 +1,11 @@
+{
+  "name": "ScholarshipRepaymentScraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:daisukigohan/ScholarshipRepaymentScraper.git",
+  "author": "Ponta <bayashiko.daiki@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chromeless": "^1.5.2"
+  }
+}
